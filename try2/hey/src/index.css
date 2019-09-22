@@ -8,10 +8,3 @@ html, body, #root {
   margin: 0;
   height: 100%;
 }
-.jumbotron-fluid{
-  background-color: rgb(22, 18, 49);
-}
-.jumbotron{
-  text-align: center;
-  color: white;
-}

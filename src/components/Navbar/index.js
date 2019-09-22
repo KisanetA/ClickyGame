@@ -1,16 +1,8 @@
 import React from "react";
 import "./style.css";
 
-function Title(props) {
-  <div>
-    <nav class="navbar">
-      <ul>
-        <li class="brand">
-          <a href="/"> Clicky Game</a>
-        </li>
-      </ul>
-    </nav>
-  </div>
+function Navbar(props) {
+  return <div className="Navbar">{props.children} </div>;
 }
 
-export default Title;
+export default Navbar;

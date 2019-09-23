@@ -1,14 +1,27 @@
-.navbar li{
-    display: inline-block;
-    padding: 0 65px;
-    text-align: center;
-    width: 33.3%;
-}
-.navbar{
-    background: rgb(6, 22, 112);
-    min-height: 70px;
-    position: fixed;
-    width: 71%;
+#navbarText{
+    /* padding:0% 10% 0% 10%; */
+    background-color: pink;
     color: white;
-    font-size: 15px;
+    text-align: center;
+    width: 100%;
+}
+#me{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    /* margin: 0 25% 0 ; */
+    /* padding: 20px; */
+    display: block;
+
+    padding:10px 80px 10px 60px;
+}
+    
+
+#left{
+    width: 100%;
+    margin: auto;
+    padding:0;
+}
+#top{
+    padding:0;
 }

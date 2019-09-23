@@ -21,6 +21,8 @@
     width: 100%;
     margin: auto;
     padding:0;
+    position: fixed;
+    overflow: hidden;
 }
 #top{
     padding:0;

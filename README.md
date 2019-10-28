@@ -1,3 +1,7 @@
+# ClickyGame
+
+The application will render different images to the screen. The application will keep track of the user's score and the score will increment after every click. The user's score will reset to 0 if they click the same image more than once. Every time an image is clicked, the images will shuffle themselves in a random order. [Link to ClickyGame!](https://hidden-beach-04437.herokuapp.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

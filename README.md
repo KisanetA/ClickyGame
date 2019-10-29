@@ -11,6 +11,7 @@ The application will render different images to the screen. The application will
     * Bootstrap
     * Node.js
     * React
+    * Heroku
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
